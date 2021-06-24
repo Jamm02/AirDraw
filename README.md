@@ -11,5 +11,5 @@ The Technologies used for this project are
 2. The center of the blob is then tracked throughout the live video leaving behind a trail of blue coloured pixel 
 ## Demonstrations
 ![airdrawgif](https://user-images.githubusercontent.com/84293091/123313715-65aa8380-d547-11eb-9bce-799d1cc7d873.gif)
-
-
+## License
+The [License](https://github.com/Jamm02/AirDraw/blob/master/LICENSE) Used for this Project.
