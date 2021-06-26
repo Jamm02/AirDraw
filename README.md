@@ -8,7 +8,8 @@ The Technologies used for this project are
 * OpenCV
 ### Data Processing:
 1. A blob(pen) is selected by the method of ROI(Region Of Interest).
-2. The center of the blob is then tracked throughout the live video leaving behind a trail of blue coloured pixel 
+2. The center of blob is detected and marked by a white circle.
+3. The motion of the circle is tracked throughout the live feed changing the colour of the pixel to blue according to the co-ordinates of the center.
 ## Demonstrations
 ![airdrawgif](https://user-images.githubusercontent.com/84293091/123313715-65aa8380-d547-11eb-9bce-799d1cc7d873.gif)
 ## License
